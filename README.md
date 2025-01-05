@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Adam Marey </h2> ### <img align="right" height="150"
 
-
-
 # 💫 About Me:
 Second-year Computer Science student specializing in Artificial Intelligence at Sussex University. Passionate about AI, machine learning, and programming, with hands-on experience in developing software applications, algorithms, and problem-solving. Skilled in Python, Java, C++, and various development tools. Eager to contribute technical expertise in innovative, real-world projects.
 
