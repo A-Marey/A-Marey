@@ -1,3 +1,23 @@
+
+<p align="center">
+  <span style="font-size: 2em; font-weight: bold; color: #0078D4; animation: pulse 1s infinite;">
+    Hi there, I'm Adam Marey!
+  </span>
+</p>
+
+<style>
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+  }
+</style>
+
+
+
+
+
+
 # 💫 About Me:
 Second-year Computer Science student specializing in Artificial Intelligence at Sussex University. Passionate about AI, machine learning, and programming, with hands-on experience in developing software applications, algorithms, and problem-solving. Skilled in Python, Java, C++, and various development tools. Eager to contribute technical expertise in innovative, real-world projects.
 
