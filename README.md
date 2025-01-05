@@ -1,4 +1,4 @@
-
+<h2 align="left">Hi 👋! My name is Adam Marey </h2> ### <img align="right" height="150"
 
 
 
