@@ -1,20 +1,4 @@
 
-<p align="center">
-  <span style="font-size: 2em; font-weight: bold; color: #0078D4; animation: pulse 1s infinite;">
-    Hi there, I'm Adam Marey!
-  </span>
-</p>
-
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.2); }
-    100% { transform: scale(1); }
-  }
-</style>
-
-
-
 
 
 
